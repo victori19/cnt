@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "victoria williams" 
+MAINTAINER "kserge2001@yahoo.fr" 
 COPY webapp/target/cnt.war /usr/local/tomcat/webapps
